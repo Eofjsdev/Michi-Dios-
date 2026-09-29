@@ -4,8 +4,6 @@
 
 ### Software Engineer | Frontend Developer | Tech Enthusiast
     
-[![Website](https://img.shields.io/badge/Portfolio-elijs.dev-4c5861?style=for-the-badge&logo=google-chrome&logoColor=white)](https://elijs.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizabeth-de-la-paz-portal-4b864b209/) [![Telegram](https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/elizabthpazp) [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elizabethpazp695@gmail.com)
-
  <img align="right" alt="GIF" height="190px" width="200px" src="https://media.giphy.com/media/Xy54oX570IxWnAI5nR/giphy.gif" href="https://elijs.dev/"/>
 
 <br/>
